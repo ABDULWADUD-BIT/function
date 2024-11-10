@@ -1,6 +1,6 @@
 # function
 #include <stdio.h>
-int goru(int a[],int n){ // using the random name for as a function name 
+int goru(int a[],int n){   // using the random name for as a function name 
 int h = a[0],i,f = a[0];
 
     for(i=0;i<n;i++){
