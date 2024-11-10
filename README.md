@@ -19,11 +19,15 @@ int h = a[0],i,f = a[0];
     return h;
 }
 
-
 int main(){
+
 int a[] = {1,2,3,4,5,30},n=6;
+
 int b[] = {10,2,43,4,5,56,21,6},k=8;
+
 printf("%d\n",goru(a,n));
+
 printf("%d",goru(b,k));
+
 return 0;
 }
